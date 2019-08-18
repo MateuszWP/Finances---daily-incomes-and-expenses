@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Incomes>
+<Income>
+<IncomeId>1</IncomeId>
+<UserId>1</UserId>
+<Date>2019-08-17</Date>
+<Item>wyplata</Item>
+<Amount>3500.78</Amount>
+</Income>
+<Income>
+<IncomeId>2</IncomeId>
+<UserId>1</UserId>
+<Date>2019-07-21</Date>
+<Item>sprzedaz</Item>
+<Amount>1200.89</Amount>
+</Income>
+<Income>
+<IncomeId>3</IncomeId>
+<UserId>1</UserId>
+<Date>2019-08-18</Date>
+<Item>wygrana w totka</Item>
+<Amount>25000</Amount>
+</Income>
+</Incomes>

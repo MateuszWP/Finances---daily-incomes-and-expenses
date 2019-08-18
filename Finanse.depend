@@ -1,0 +1,2053 @@
+# depslib dependency file v1.0
+1303067212 source:c:\users\pawel\desktop\nowy folder\finanse\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1303067212 c:\users\pawel\desktop\nowy folder\finanse\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1564426253 source:c:\users\pawel\desktop\nowy folder\finanse\plikzuzytkownikami.cpp
+
+1564679610 source:c:\users\pawel\desktop\nowy folder\finanse\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+
+1564332514 source:c:\users\pawel\desktop\nowy folder\finanse\user.cpp
+	"User.h"
+
+1564334016 c:\users\pawel\desktop\nowy folder\finanse\user.h
+	<iostream>
+
+1564679610 source:c:\users\pawel\desktop\nowy folder\finanse\usermanager.cpp
+	"UserManager.h"
+
+1564679610 c:\users\pawel\desktop\nowy folder\finanse\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1564507107 source:c:\users\pawel\desktop\nowy folder\finanse\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564507901 c:\users\pawel\desktop\nowy folder\finanse\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564679031 source:c:\users\pawel\desktop\nowy folder\finanse\filewithusers.cpp
+	"FileWithUsers.h"
+
+1564679610 c:\users\pawel\desktop\nowy folder\finanse\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1564677924 c:\users\pawel\desktop\nowy folder\finanse\textfile.h
+	<iostream>
+	<fstream>
+
+1564678888 source:c:\users\pawel\desktop\nowy folder\finanse\textfile.cpp
+	"TextFile.h"
+
+1564682487 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\filewithusers.cpp
+	"FileWithUsers.h"
+
+1564679610 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1303067212 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1564507901 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\textfile.h
+	<iostream>
+	<fstream>
+
+1564334016 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\user.h
+	<iostream>
+
+1303067212 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1564507107 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\textfile.cpp
+	"TextFile.h"
+
+1565436699 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1564679610 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1564332514 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\user.cpp
+	"User.h"
+
+1564679610 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\usermanager.cpp
+	"UserManager.h"
+
+1565434026 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\income.cpp
+	"Income.h"
+
+1565434037 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\income.h
+	<iostream>
+
+1565437524 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1565437524 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse2 - date as int\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	"Income.h"
+	"MetodyPomocnicze.h"
+
+1564682487 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565449453 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1303067212 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1565451004 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\textfile.h
+	<iostream>
+	<fstream>
+
+1564334016 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\user.h
+	<iostream>
+
+1565434026 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\income.cpp
+	"Income.h"
+
+1565434037 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\income.h
+	<iostream>
+
+1565451064 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1565452392 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	"Income.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+
+1303067212 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1564678888 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\textfile.cpp
+	"TextFile.h"
+
+1565451116 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1564679610 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1564332514 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\user.cpp
+	"User.h"
+
+1564679610 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\usermanager.cpp
+	"UserManager.h"
+
+1565452392 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565452422 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1565451330 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse3 - save and load incomes\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1565452392 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565452422 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1303067212 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1565451004 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\textfile.h
+	<iostream>
+	<fstream>
+
+1565434037 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\income.h
+	<iostream>
+
+1565624416 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1564334016 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\user.h
+	<iostream>
+
+1565434026 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\income.cpp
+	"Income.h"
+
+1565452577 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1565452577 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	"Income.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+
+1303067212 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1565451330 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\textfile.cpp
+	"TextFile.h"
+
+1565622227 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1564332514 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\user.cpp
+	"User.h"
+
+1565622324 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\finances.cpp
+	"Finances.h"
+
+1565621232 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1565622261 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse4 - finances\usermanager.cpp
+	"UserManager.h"
+
+1565452392 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565452422 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1303067212 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1565451004 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\textfile.h
+	<iostream>
+	<fstream>
+
+1565628138 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\income.h
+	<iostream>
+	"Event.h"
+
+1565627664 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\event.h
+	<iostream>
+
+1565624664 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1564334016 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\user.h
+	<iostream>
+
+1565622324 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\finances.cpp
+	"Finances.h"
+
+1565621232 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1565628853 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	"Income.h"
+	"Expense.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+
+1565628862 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1303067212 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1565451330 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\textfile.cpp
+	"TextFile.h"
+
+1565629018 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1564332514 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\user.cpp
+	"User.h"
+
+1565622261 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\usermanager.cpp
+	"UserManager.h"
+
+1565627734 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\event.cpp
+	"Event.h"
+
+1565628190 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\expense.cpp
+	"Expense.h"
+
+1565628159 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\expense.h
+	<iostream>
+	"Event.h"
+
+1565628159 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse5 - finances - event and expenses classes\income.cpp
+	"Income.h"
+
+1565632579 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\event.cpp
+	"Event.h"
+
+1565632579 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\event.h
+	<iostream>
+
+1565628190 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\expense.cpp
+	"Expense.h"
+
+1565628159 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\expense.h
+	<iostream>
+	"Event.h"
+
+1565632610 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565452422 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1303067212 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1565451004 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\textfile.h
+	<iostream>
+	<fstream>
+
+1565628138 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\income.h
+	<iostream>
+	"Event.h"
+
+1565624664 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1564334016 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\user.h
+	<iostream>
+
+1565628159 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\income.cpp
+	"Income.h"
+
+1303067212 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1565451330 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\textfile.cpp
+	"TextFile.h"
+
+1564332514 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\user.cpp
+	"User.h"
+
+1565622261 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\usermanager.cpp
+	"UserManager.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1565632769 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1565632069 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Expense.h"
+
+1565632126 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\finances.cpp
+	"Finances.h"
+
+1565632068 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1565632222 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	"Income.h"
+	"Expense.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+
+1565632645 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1565633061 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse6 - finances - addexpense and save expense to file\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1565632579 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\event.cpp
+	"Event.h"
+
+1565632579 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\event.h
+	<iostream>
+
+1565628190 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\expense.cpp
+	"Expense.h"
+
+1565628159 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\expense.h
+	<iostream>
+	"Event.h"
+
+1565624664 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1303067212 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1565451004 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\textfile.h
+	<iostream>
+	<fstream>
+
+1564334016 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\user.h
+	<iostream>
+
+1565708128 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\finances.cpp
+	"Finances.h"
+
+1565632068 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1565710190 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	"Income.h"
+	"Expense.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+
+1565628138 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\income.h
+	<iostream>
+	"Event.h"
+
+1565706660 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1565706660 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Expense.h"
+
+1565628159 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\income.cpp
+	"Income.h"
+
+1565709682 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1303067212 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1565451330 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\textfile.cpp
+	"TextFile.h"
+
+1564332514 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\user.cpp
+	"User.h"
+
+1565622261 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\usermanager.cpp
+	"UserManager.h"
+
+1565709369 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1565708237 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1565707945 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse7 - addincome, addexpense - lastidfromfile, getpresentdate\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565632579 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\event.cpp
+	"Event.h"
+
+1565632579 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\event.h
+	<iostream>
+
+1565628190 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\expense.cpp
+	"Expense.h"
+
+1565628159 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\expense.h
+	<iostream>
+	"Event.h"
+
+1565708237 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1565706660 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Expense.h"
+
+1303067212 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1565451004 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\textfile.h
+	<iostream>
+	<fstream>
+
+1565707945 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565706660 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1565715554 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\income.h
+	<iostream>
+	"Event.h"
+
+1565624664 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1564334016 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\user.h
+	<iostream>
+
+1565708128 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\finances.cpp
+	"Finances.h"
+
+1565632068 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1565715997 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	"Income.h"
+	"Expense.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	<algorithm>
+	<functional>
+
+1303067212 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1565451330 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\textfile.cpp
+	"TextFile.h"
+
+1564332514 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\user.cpp
+	"User.h"
+
+1565622261 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\usermanager.cpp
+	"UserManager.h"
+
+1565715633 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\income.cpp
+	"Income.h"
+
+1565716159 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1565716120 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse8 - balance - sorting\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1565632579 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\event.cpp
+	"Event.h"
+
+1565632579 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\event.h
+	<iostream>
+
+1565718770 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\expense.cpp
+	"Expense.h"
+
+1565718749 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\expense.h
+	<iostream>
+	"Event.h"
+
+1565708237 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1565706660 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Expense.h"
+
+1303067212 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1565451004 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\textfile.h
+	<iostream>
+	<fstream>
+
+1565707945 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565706660 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1565715554 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\income.h
+	<iostream>
+	"Event.h"
+
+1565624664 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1564334016 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\user.h
+	<iostream>
+
+1565708128 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\finances.cpp
+	"Finances.h"
+
+1565632068 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1565718749 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	"Income.h"
+	"Expense.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	<algorithm>
+	<functional>
+
+1565715633 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\income.cpp
+	"Income.h"
+
+1303067212 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1565451330 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\textfile.cpp
+	"TextFile.h"
+
+1564332514 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\user.cpp
+	"User.h"
+
+1565622261 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\usermanager.cpp
+	"UserManager.h"
+
+1565719133 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1565718914 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse9 - balance - current month\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1565632579 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\event.cpp
+	"Event.h"
+
+1565632579 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\event.h
+	<iostream>
+
+1565718770 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\expense.cpp
+	"Expense.h"
+
+1565718749 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\expense.h
+	<iostream>
+	"Event.h"
+
+1565708237 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1565706660 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Expense.h"
+
+1303067212 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1565451004 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\textfile.h
+	<iostream>
+	<fstream>
+
+1565707945 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565706660 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1565715554 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\income.h
+	<iostream>
+	"Event.h"
+
+1565624664 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1564334016 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\user.h
+	<iostream>
+
+1565802143 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\finances.cpp
+	"Finances.h"
+
+1565802143 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1565622007 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1565793115 c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	"Income.h"
+	"Expense.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	<algorithm>
+	<functional>
+
+1565715633 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\income.cpp
+	"Income.h"
+
+1303067212 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1565451330 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\textfile.cpp
+	"TextFile.h"
+
+1564332514 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\user.cpp
+	"User.h"
+
+1565622261 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\usermanager.cpp
+	"UserManager.h"
+
+1565801784 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1565793525 source:c:\users\pawel\desktop\nowy folder\finanse sdasad\finanse10 - balance - previouslymonth, periodoftime\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1565632579 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\event.cpp
+	"Event.h"
+
+1565632579 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\event.h
+	<iostream>
+
+1565718770 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\expense.cpp
+	"Expense.h"
+
+1565718749 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\expense.h
+	<iostream>
+	"Event.h"
+
+1565708237 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1565706660 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Expense.h"
+
+1303067212 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1565948048 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\textfile.h
+	<iostream>
+	<fstream>
+
+1565707945 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565706660 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1565715554 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\income.h
+	<iostream>
+	"Event.h"
+
+1565624664 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565622007 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1564334016 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\user.h
+	<iostream>
+
+1565802143 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\finances.cpp
+	"Finances.h"
+
+1565802143 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1565622007 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1565793115 c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	"Income.h"
+	"Expense.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	<algorithm>
+	<functional>
+
+1565715633 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\income.cpp
+	"Income.h"
+
+1565801784 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1303067212 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1565451330 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\textfile.cpp
+	"TextFile.h"
+
+1565802260 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1564332514 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\user.cpp
+	"User.h"
+
+1565622261 source:c:\users\mateusz\desktop\code blocks porgramy\finanse10 - balance - previouslymonth, periodoftime\usermanager.cpp
+	"UserManager.h"
+
+1565949781 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\event.cpp
+	"Event.h"
+
+1565949759 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\event.h
+	<iostream>
+
+1565718770 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\expense.cpp
+	"Expense.h"
+
+1565718749 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\expense.h
+	<iostream>
+	"Event.h"
+
+1565950873 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1565706660 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Expense.h"
+
+1303067212 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1565952503 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\textfile.h
+	<iostream>
+	<fstream>
+
+1565950726 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565706660 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1565715554 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\income.h
+	<iostream>
+	"Event.h"
+
+1565624664 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565622007 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1564334016 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\user.h
+	<iostream>
+
+1565948048 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\finances.cpp
+	"Finances.h"
+
+1565948048 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1565622007 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1565949835 c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	"Income.h"
+	"Expense.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	<algorithm>
+	<functional>
+
+1565715633 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\income.cpp
+	"Income.h"
+
+1565952503 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1303067212 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1565952521 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\textfile.cpp
+	"TextFile.h"
+
+1565948048 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1564332514 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\user.cpp
+	"User.h"
+
+1565622261 source:c:\users\mateusz\desktop\code blocks porgramy\finanse11 - fixing\usermanager.cpp
+	"UserManager.h"
+
+1565949781 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\event.cpp
+	"Event.h"
+
+1565994760 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\event.h
+	<iostream>
+
+1565718770 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\expense.cpp
+	"Expense.h"
+
+1565718749 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\expense.h
+	<iostream>
+	"Event.h"
+
+1565954816 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1565954816 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Expense.h"
+
+1303067212 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1565952503 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\textfile.h
+	<iostream>
+	<fstream>
+
+1565954422 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565954422 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1565715554 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\income.h
+	<iostream>
+	"Event.h"
+
+1565715633 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\income.cpp
+	"Income.h"
+
+1565954816 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1565954816 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	"Income.h"
+	"Expense.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	<algorithm>
+	<functional>
+
+1303067212 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1565952521 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\textfile.cpp
+	"TextFile.h"
+
+1564332514 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\user.cpp
+	"User.h"
+
+1564334016 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\user.h
+	<iostream>
+
+1565954816 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\finances.cpp
+	"Finances.h"
+
+1565954816 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1565953700 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1565953726 c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1565954816 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1565953929 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565953839 source:c:\users\mateusz\desktop\code blocks porgramy\finanse12 - constructors\usermanager.cpp
+	"UserManager.h"
+
+1565949781 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\event.cpp
+	"Event.h"
+
+1565994760 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\event.h
+	<iostream>
+
+1565718770 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\expense.cpp
+	"Expense.h"
+
+1565718749 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\expense.h
+	<iostream>
+	"Event.h"
+
+1565954816 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1565954816 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Expense.h"
+
+1303067212 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1566056091 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1564677924 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\textfile.h
+	<iostream>
+	<fstream>
+
+1565954422 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1565954422 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"Income.h"
+
+1565715554 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\income.h
+	<iostream>
+	"Event.h"
+
+1566053470 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\filewithusers.cpp
+	"FileWithUsers.h"
+
+1565953726 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"MetodyPomocnicze.h"
+	"TextFile.h"
+	"User.h"
+
+1564334016 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\user.h
+	<iostream>
+
+1566053470 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\finances.cpp
+	"Finances.h"
+
+1565954816 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1565953700 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"MetodyPomocnicze.h"
+	"FileWithUsers.h"
+
+1565954816 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	"Income.h"
+	"Expense.h"
+	"MetodyPomocnicze.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	<algorithm>
+	<functional>
+
+1565715633 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\income.cpp
+	"Income.h"
+
+1566059892 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1303067212 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1566056456 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\metodypomocnicze.cpp
+	"MetodyPomocnicze.h"
+
+1564678888 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\textfile.cpp
+	"TextFile.h"
+
+1565954816 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1564332514 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\user.cpp
+	"User.h"
+
+1566053276 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing\usermanager.cpp
+	"UserManager.h"
+
+1566160020 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\event.cpp
+	"Event.h"
+
+1565994760 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\event.h
+	<iostream>
+
+1566160020 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\expense.cpp
+	"Expense.h"
+
+1566156213 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\expense.h
+	<iostream>
+	"Event.h"
+
+1566160020 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1566160020 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"HelperMethods.h"
+	"TextFile.h"
+	"Expense.h"
+
+1303067212 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1566155040 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\metodypomocnicze.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1566156213 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\textfile.h
+	<iostream>
+	<fstream>
+
+1566157774 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1566160126 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"HelperMethods.h"
+	"TextFile.h"
+	"Income.h"
+
+1566156213 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\income.h
+	<iostream>
+	"Event.h"
+
+1566159387 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\filewithusers.cpp
+	"FileWithUsers.h"
+
+1566159387 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"HelperMethods.h"
+	"TextFile.h"
+	"User.h"
+
+1566160020 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\helpermethods.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1566155040 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\user.h
+	<iostream>
+
+1566159387 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\finances.cpp
+	"Finances.h"
+
+1566159387 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1566159387 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"HelperMethods.h"
+	"FileWithUsers.h"
+
+1566159387 c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	"Income.h"
+	"Expense.h"
+	"HelperMethods.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	<algorithm>
+	<functional>
+
+1565715633 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\income.cpp
+	"Income.h"
+
+1566157642 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1303067212 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1566159387 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\textfile.cpp
+	"TextFile.h"
+
+1566159387 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1564332514 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\user.cpp
+	"User.h"
+
+1566159387 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\usermanager.cpp
+	"UserManager.h"
+
+1566160020 source:c:\users\mateusz\desktop\code blocks porgramy\finanse13- fixing, polishing - kopia\helpermethods.cpp
+	"HelperMethods.h"
+
+1566160020 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\event.cpp
+	"Event.h"
+
+1565994760 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\event.h
+	<iostream>
+
+1566160020 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\expense.cpp
+	"Expense.h"
+
+1566156213 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\expense.h
+	<iostream>
+	"Event.h"
+
+1566160020 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\filewithexpenses.cpp
+	"FileWithExpenses.h"
+
+1566160020 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\filewithexpenses.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"HelperMethods.h"
+	"TextFile.h"
+	"Expense.h"
+
+1303067212 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1566160020 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\helpermethods.h
+	<iostream>
+	<sstream>
+	<algorithm>
+
+1566156213 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\textfile.h
+	<iostream>
+	<fstream>
+
+1566160126 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\filewithincomes.cpp
+	"FileWithIncomes.h"
+
+1566160126 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\filewithincomes.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	<vector>
+	"Markup.h"
+	"HelperMethods.h"
+	"TextFile.h"
+	"Income.h"
+
+1566156213 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\income.h
+	<iostream>
+	"Event.h"
+
+1566160126 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\filewithusers.cpp
+	"FileWithUsers.h"
+
+1566159387 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\filewithusers.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<cstdlib>
+	<windows.h>
+	"Markup.h"
+	"HelperMethods.h"
+	"TextFile.h"
+	"User.h"
+
+1566155040 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\user.h
+	<iostream>
+
+1566159387 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\finances.cpp
+	"Finances.h"
+
+1566159387 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\finances.h
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+
+1566159387 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\usermanager.h
+	<iostream>
+	"User.h"
+	<vector>
+	<string>
+	"HelperMethods.h"
+	"FileWithUsers.h"
+
+1566159387 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\incomesandexpansesmanager.h
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	"Income.h"
+	"Expense.h"
+	"HelperMethods.h"
+	"FileWithIncomes.h"
+	"FileWithExpenses.h"
+	<algorithm>
+	<functional>
+
+1566160020 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\helpermethods.cpp
+	"HelperMethods.h"
+
+1566160126 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\income.cpp
+	"Income.h"
+
+1566160126 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\incomesandexpansesmanager.cpp
+	"IncomesAndExpansesManager.h"
+
+1303067212 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1566160126 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\textfile.cpp
+	"TextFile.h"
+
+1566159387 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\untitled1.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
+1564332514 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\user.cpp
+	"User.h"
+
+1566160126 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\usermanager.cpp
+	"UserManager.h"
+
