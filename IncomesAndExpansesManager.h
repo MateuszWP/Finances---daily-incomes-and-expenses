@@ -10,6 +10,7 @@
 #include "HelperMethods.h"
 #include "FileWithIncomes.h"
 #include "FileWithExpenses.h"
+#include "DateManager.h"
 
 #include <algorithm>
 #include <functional>
@@ -29,21 +30,6 @@ class IncomesAndExpansesManager
 
     Expense setNewExpense(int id);
     int getNewExpenseId();
-
-    int getCurrentDate();
-    int getCurrentDay();
-    int getCurrentMonth();
-    int getCurrentYear();
-
-    int getDayFromString(string date);
-    int getMonthFromString(string date);
-    int getYearFromString(string date);
-
-    bool isDateCorrect(string date);
-    bool isDateGreaterThanCurrentDate(string date);
-    bool isDayCorrect(int day, int month, int year);
-    bool isMonthCorrect(int month);
-    bool isYearCorrect(int year);
 
     vector <Income> sortIncomesFromGreater(vector <Income> tmpIncomes);
     vector <Income> sortIncomesFromLower(vector <Income> tmpIncomes);

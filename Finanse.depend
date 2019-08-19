@@ -2006,7 +2006,7 @@
 	"HelperMethods.h"
 	"FileWithUsers.h"
 
-1566159387 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\incomesandexpansesmanager.h
+1566240110 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\incomesandexpansesmanager.h
 	<iostream>
 	<vector>
 	<string>
@@ -2016,6 +2016,7 @@
 	"HelperMethods.h"
 	"FileWithIncomes.h"
 	"FileWithExpenses.h"
+	"DateManager.h"
 	<algorithm>
 	<functional>
 
@@ -2025,7 +2026,7 @@
 1566160126 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\income.cpp
 	"Income.h"
 
-1566160126 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\incomesandexpansesmanager.cpp
+1566240110 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\incomesandexpansesmanager.cpp
 	"IncomesAndExpansesManager.h"
 
 1303067212 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\markup.cpp
@@ -2056,4 +2057,13 @@
 	"UserManager.h"
 	"IncomesAndExpansesManager.h"
 	"Finances.h"
+
+1566238089 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\datemanager.cpp
+	"DateManager.h"
+
+1566240257 c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\datemanager.h
+	<iostream>
+	<string>
+	<ctime>
+	"HelperMethods.h"
 

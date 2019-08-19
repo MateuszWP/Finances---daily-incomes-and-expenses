@@ -35,4 +35,11 @@
 <Item>zwrot</Item>
 <Amount>2000</Amount>
 </Income>
+<Income>
+<IncomeId>6</IncomeId>
+<UserId>1</UserId>
+<Date>2019-08-19</Date>
+<Item>wygrana</Item>
+<Amount>1200.5</Amount>
+</Income>
 </Incomes>
