@@ -41,11 +41,11 @@
 		<Unit filename="Markup.h" />
 		<Unit filename="TextFile.cpp" />
 		<Unit filename="TextFile.h" />
-		<Unit filename="Untitled1.cpp" />
 		<Unit filename="User.cpp" />
 		<Unit filename="User.h" />
 		<Unit filename="UserManager.cpp" />
 		<Unit filename="UserManager.h" />
+		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
