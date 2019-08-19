@@ -28,4 +28,11 @@
 <Item>kupno auta</Item>
 <Amount>-12000</Amount>
 </Expenses>
+<Expenses>
+<ExpenseId>5</ExpenseId>
+<UserId>1</UserId>
+<Date>2019-07-15</Date>
+<Item>zakupy</Item>
+<Amount>-1400</Amount>
+</Expenses>
 </Expenses>
