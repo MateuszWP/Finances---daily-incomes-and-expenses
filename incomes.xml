@@ -21,4 +21,18 @@
 <Item>wygrana w totka</Item>
 <Amount>25000</Amount>
 </Income>
+<Income>
+<IncomeId>4</IncomeId>
+<UserId>2</UserId>
+<Date>2019-08-18</Date>
+<Item>wyplata</Item>
+<Amount>4000.85</Amount>
+</Income>
+<Income>
+<IncomeId>5</IncomeId>
+<UserId>1</UserId>
+<Date>2019-08-12</Date>
+<Item>zwrot</Item>
+<Amount>2000</Amount>
+</Income>
 </Incomes>

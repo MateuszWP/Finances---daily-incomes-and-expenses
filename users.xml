@@ -7,4 +7,11 @@
 <Name>Mariusz</Name>
 <Surname>Klos</Surname>
 </User>
+<User>
+<UserId>2</UserId>
+<Login>nazwa</Login>
+<Password>haslo</Password>
+<Name>Kamil</Name>
+<Surname>Nowak</Surname>
+</User>
 </Users>

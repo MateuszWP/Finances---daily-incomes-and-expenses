@@ -14,4 +14,18 @@
 <Item>zakupy</Item>
 <Amount>-500</Amount>
 </Expenses>
+<Expenses>
+<ExpenseId>3</ExpenseId>
+<UserId>2</UserId>
+<Date>2019-08-02</Date>
+<Item>zakupy</Item>
+<Amount>-1000</Amount>
+</Expenses>
+<Expenses>
+<ExpenseId>4</ExpenseId>
+<UserId>1</UserId>
+<Date>2019-08-04</Date>
+<Item>kupno auta</Item>
+<Amount>-12000</Amount>
+</Expenses>
 </Expenses>

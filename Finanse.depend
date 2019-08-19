@@ -2051,3 +2051,9 @@
 1566160126 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\usermanager.cpp
 	"UserManager.h"
 
+1566159387 source:c:\users\mateusz\desktop\code blocks porgramy\finances - daily incomes and expenses\main.cpp
+	<iostream>
+	"UserManager.h"
+	"IncomesAndExpansesManager.h"
+	"Finances.h"
+
